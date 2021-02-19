@@ -4,5 +4,5 @@ This project was completed for my pattern recognition class involving MED, ML, M
 
 # MED
 
-<img src="https://github.com/KaramDanial458/python_cluster_classification/blob/main/lab1/image/decision_boundary/MED_decision_boundary_3classes.png" alt="drawing01" width="500"/>
+<img src="https://github.com/KaramDanial458/python_cluster_classification/blob/main/lab1/image/decision_boundary/MED_decision_boundary_3classes.png" alt="drawing01" width="500"/> |
 <img src="https://github.com/KaramDanial458/python_cluster_classification/blob/main/lab1/image/confusion_matrice/MED_confusion_3classes.png" alt="drawing2" width="500"/>
