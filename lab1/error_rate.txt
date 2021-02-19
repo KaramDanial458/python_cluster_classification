@@ -1,0 +1,10 @@
+(A vs. B, GEM) Error is: 0.09750000000000003
+(C vs. D vs. E, GEM) Error is: 0.2466666666666667
+(A vs. B, MAP) Error is: 0.0625
+(C vs. D vs. E, MAP) Error is: 0.15555555555555556
+(A vs. B, MED) Error is: 0.0625
+(C vs. D vs. E, MED) Error is: 0.1777777777777778
+(A vs. B, NN) Error is: 0.10750000000000004
+(C vs. D vs. E, NN) Error is: 0.22444444444444445
+(A vs. B, 5NN) Error is: 0.07250000000000001
+(C vs. D vs. E, 5NN) Error is: 0.18000000000000005
